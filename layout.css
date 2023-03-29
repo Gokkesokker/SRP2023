@@ -1,0 +1,12 @@
+body {
+    font-family: 'Ubuntu';
+}
+.container {
+    width: 1000px;
+}
+
+div .cols {
+    border: 1px dotted black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 3px;
+}
